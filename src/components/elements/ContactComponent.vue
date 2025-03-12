@@ -54,14 +54,12 @@
 </template>
 
 <script>
-import ButtonComponentVue from "../reusable/ButtonComponent.vue";
 import InputComponentVue from "../reusable/InputComponent.vue";
-import TextareaComponentVue from "../reusable/TextareaComponent.vue";
 
 export default {
   name: "ContactComponent",
 
-  components: { InputComponentVue, TextareaComponentVue, ButtonComponentVue },
+  components: { InputComponentVue },
 };
 </script>
 
