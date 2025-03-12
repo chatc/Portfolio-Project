@@ -6,7 +6,7 @@
 
     <div class="display">
       <div class="left">
-        <a href="https://github.com/chatc/CRUD-Project" target="bank">
+        <a href="https://crud-project-sable.vercel.app/" target="bank">
           <img src="/images/CRUD.png" alt=""
         /></a>
       </div>
